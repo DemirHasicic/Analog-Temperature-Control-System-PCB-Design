@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Maasu-STM-32-Internship
-Developed and tested custom firmware solutions for STM32 microcontrollers using C/C++. Collaborated with the team to implement the V-model framework for firmware development.
-=======
 # 🔧 Analog Temperature Control System – Two-Position (Bang-Bang) Regulation
 
 This project presents the design and implementation of a complete analog temperature regulation system using two-position (bang-bang) control logic. The system was developed using discrete analog components, simulated in **Proteus Design Suite**, and finalized with a custom **PCB layout**.
